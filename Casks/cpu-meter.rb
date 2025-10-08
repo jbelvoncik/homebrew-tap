@@ -1,6 +1,6 @@
 cask "cpu-meter" do
   version "0.1.1"
-  sha256 "b19d96aa8008be719e94b9370170552672418c6fbfcc2c4e20ae83d12b1ae18c"
+  sha256 "15a9a88f32fa82ee23c93ab32313b1ae02625f2170a2dd76533c6f669306ef97"
 
   url "https://github.com/jbelvoncik/CPU_Meter/releases/download/v#{version}/CPU_Meter_v#{version}_macOS.zip",
       verified: "github.com/jbelvoncik/CPU_Meter/"
